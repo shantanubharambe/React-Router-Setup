@@ -1,0 +1,44 @@
+.about {
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+  }
+  
+  .about-header {
+    background: #2196F3;
+    color: white;
+    padding: 50px 20px;
+  }
+  
+  .about-header h1 {
+    margin: 0;
+    font-size: 3rem;
+  }
+  
+  .about-content {
+    padding: 20px;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    flex: 1;
+    min-width: 200px;
+    text-align: center;
+  }
+  
+  .team-image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
